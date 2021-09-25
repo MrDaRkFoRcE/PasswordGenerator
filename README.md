@@ -22,5 +22,5 @@ pip install
 
 # Generating a password via following command
 ```
-python password generator.py
+python PasswordGenerator.py
 ```
